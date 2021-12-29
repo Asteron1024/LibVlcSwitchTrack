@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibVlcSwitchTrack", "LibVlcSwitchTrack\LibVlcSwitchTrack.csproj", "{50D2D493-B836-4B4A-9343-083D36569ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D2D493-B836-4B4A-9343-083D36569ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D2D493-B836-4B4A-9343-083D36569ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D2D493-B836-4B4A-9343-083D36569ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D2D493-B836-4B4A-9343-083D36569ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1789D3DE-E8EA-46BA-8807-8ACF14F50AE6}
+	EndGlobalSection
+EndGlobal
